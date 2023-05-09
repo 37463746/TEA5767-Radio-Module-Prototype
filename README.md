@@ -7,8 +7,8 @@ Notes:
   
   -This code is a simplified version of the final product the tests two things
   
-    1. If the radio can recieve signals and covert them to sound
-    2. If the radio can transfer information to the serial terminal 
+    1. If the radio module can recieve signals and covert them to sound
+    2. If the radio module can transfer information to the serial terminal 
 
   -In the final product the data will be sent to a display screen and two servo motors instead of the serial terminal 
   

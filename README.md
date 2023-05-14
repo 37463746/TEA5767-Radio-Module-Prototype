@@ -1,8 +1,5 @@
 # TEA5767-Radio-Module-Prototype
 
-Important:
-  The diagram of the prototype can be found under the tab labelled "Wiki" within this repository
-
 Notes:
   
   -This code is a simplified version of the final product the tests two things

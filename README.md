@@ -9,7 +9,7 @@ Notes:
 
   -In the final product the data will be sent to a display screen and two servo motors instead of the serial terminal 
   
-  -Code Adapted From: https://www.instructables.com/How-to-use-the-TEA5767-FM-Radio-module-Arduino-Tut/
+  -Code adapted from: https://www.instructables.com/How-to-use-the-TEA5767-FM-Radio-module-Arduino-Tut/
   
   
 
